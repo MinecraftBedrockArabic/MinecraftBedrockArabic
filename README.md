@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MinecraftBedrockArabic)](https://github.com/MinecraftBedrockArabic/github-readme-stats)
+
 
 <!--
 **MinecraftBedrockArabic/MinecraftBedrockArabic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
